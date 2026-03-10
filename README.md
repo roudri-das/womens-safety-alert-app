@@ -1,4 +1,4 @@
-# 🚨Women’s Safety Alert App
+# 🚨 Women’s Safety Alert App
 A Python-based desktop emergency alert application built using Tkinter.
  This project demonstrates GUI development, event-driven programming, and safety-focused software design.
 
@@ -44,14 +44,14 @@ A Python-based desktop emergency alert application built using Tkinter.
 - File handling (contacts.txt storage)
 
 
-## ✨Key Features
+## ✨ Key Features
 
 Structured contact saving system
 
 Alert confirmation dialog before sending
 
 
-# Displays:
+ Displays:
 
 - Current timestamp
 
@@ -83,7 +83,12 @@ python main.py
 
 
 ## 🎯 Purpose of the Project
-I developed this application to strengthen my understanding of:
+
+I developed this Women’s Safety Alert App to practice building a functional desktop application using Python and Tkinter while focusing on a socially meaningful problem.
+
+Growing up in an environment where personal safety, especially for women—is an important concern, I have always been interested in how technology can contribute to safer communities. This project allowed me to explore how simple software tools can help raise awareness and provide quick emergency assistance features such as location sharing, alarms, and emergency contact alerts.
+
+Through this project, I aimed to strengthen my skills in:
 
 - GUI development using Tkinter
 
@@ -91,10 +96,9 @@ I developed this application to strengthen my understanding of:
 
 - File handling and data persistence
 
-- Integrating third-party Python libraries
+- Integrating external Python libraries
 
-- Designing structured and user-friendly software
-
+- Designing simple safety-focused applications
 
 This project reflects both my technical growth and my interest in building practical safety-oriented solutions.
 
@@ -109,6 +113,22 @@ This project reflects both my technical growth and my interest in building pract
 - Cloud-based contact storage
 
 - Mobile application version
+
+  
+
+## 📂 Project Structure
+
+womens-safety-alert-app
+│
+├── main.py               # Main application code
+├── contacts.txt          # Stored emergency contacts
+├── alarm.mp3             # Alarm sound file
+├── README.md             # Project documentation
+│
+└── images                # Screenshots used in README
+    ├── 01_main_interface.png
+    ├── 02_confirmation_dialog.png
+    └── 03_alert_sent.png
 
 
 ## Author
