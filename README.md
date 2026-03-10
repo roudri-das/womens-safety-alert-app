@@ -116,8 +116,9 @@ This project reflects both my technical growth and my interest in building pract
 
   
 
-## 📂 Project Structure
+ ## 📂 Project Structure
 
+```
 womens-safety-alert-app
 │
 ├── main.py               # Main application code
@@ -125,10 +126,11 @@ womens-safety-alert-app
 ├── alarm.mp3             # Alarm sound file
 ├── README.md             # Project documentation
 │
-└── images                # Screenshots used in README
+└── images
     ├── 01_main_interface.png
     ├── 02_confirmation_dialog.png
     └── 03_alert_sent.png
+``` 
 
 
 ## Author
