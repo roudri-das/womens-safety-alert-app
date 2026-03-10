@@ -6,13 +6,13 @@ A Python-based desktop emergency alert application built using Tkinter.
 ## 📸 Application Preview
 
 ### Main Interface
-![Main Interface](images/main_interface.png)
+![Main Interface](images/01_main_interface.png)
 
 ### Alert Confirmation
-![Alert Confirmation](images/confirmation_dialog.png)
+![Alert Confirmation](images/02_confirmation_dialog.png)
 
 ### Alert Sent
-![Alert Sent](images/alert_sent.png)
+![Alert Sent](images/03_alert_sent.png)
 
 
 ## 📌 Project Overview
